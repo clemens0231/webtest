@@ -1,1 +1,0 @@
-var SPLINE_ASSETS_LIST = { fonts: ['roboto_regular'], images: [], models: [], animations: [] }
